@@ -1,0 +1,1 @@
+ E:\\Tweb\\Flutter\\transcash-app\\.dart_tool\\flutter_build\\5be882f1859d7712c6112261bb2e1ae8\\native_assets.yaml: 
